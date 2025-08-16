@@ -1,0 +1,16 @@
+# .gitignore
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Environnement
+.env
+.env.*
+
+# Build
+dist/
+build/
+.next/
+
+# Système
+.DS_Store
